@@ -1,5 +1,5 @@
 # Introduction 
-SSH Jump farm for with AD in a docker container.
+SSH Jump farm for Active Directory in a Docker container.
 
 This container:
 - Uses any AD account to bind to AD (no domain join required!)
